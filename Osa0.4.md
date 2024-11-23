@@ -9,7 +9,7 @@ sequenceDiagram
     Browser->>Server: https://studies.cs.helsinki.fi/exampleapp/main.js
     Server-->>Browser: the JavaScript file
     Browser->>Server: GET https://studies.cs.helsinki.fi/exampleapp/data.json
-    Server-->>Browser: the Json file
+    Server-->>Browser: the Json data
 
 
    
